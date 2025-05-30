@@ -41,7 +41,6 @@ header {
 	padding-top: 35px; /* 위쪽 여백 35px */
 	padding-left: 10px; /* 왼쪽 여백 10px */
 }
-
 /* --- 메뉴 (네비게이션) --- */
 nav {
 	position: absolute; /* header 내부에서 절대 위치 */
